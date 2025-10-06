@@ -20,6 +20,10 @@ I love learning, iterating fast, and writing clear, maintainable code.
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 </div>
 
@@ -37,8 +41,32 @@ I love learning, iterating fast, and writing clear, maintainable code.
 <img title="CSS3" alt="CSS3" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 &nbsp;&nbsp;
 <img title="React" alt="React" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+&nbsp;&nbsp;
+<img title="MongoDB" alt="MongoDB" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+&nbsp;&nbsp;
+<img title="Oracle" alt="Oracle" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+&nbsp;&nbsp;
+<img title="Postman" alt="Postman" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+&nbsp;&nbsp;
+<img title="Swagger" alt="Swagger" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" />
 
 </div>
+
+### Stack overview
+
+- Languages and frameworks
+  - Java (Spring Boot)
+  - JavaScript (React)
+  - Python
+  - HTML5, CSS3
+
+- Databases
+  - MongoDB
+  - Oracle Database
+
+- Tools (API design and testing)
+  - Postman
+  - Swagger (OpenAPI)
 
 ---
 
@@ -85,4 +113,3 @@ Tips:
 - Pin your featured repositories so they appear on your profile.
 - If you use more tools (Git, Node, Vite, Jest, Docker), add their badges above.
 -->
-````

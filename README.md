@@ -44,7 +44,7 @@ I love learning, iterating fast, and writing clear, maintainable code.
 
 ## ✨ About me
 
-- 🔭 Currently working on projects with React and Java.
+- 🔭 Currently working on projects with Java Spring Boot
 - 🌱 Continuously learning best practices, testing, and design patterns.
 - 🧩 I enjoy tackling challenges and optimizing performance across frontend and backend.
 - 🤝 Open to collaborating on open-source projects and small libraries.

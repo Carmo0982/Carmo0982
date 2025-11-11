@@ -116,5 +116,15 @@ I love learning, iterating fast, and writing clear, maintainable code.
 
 ## 📬 Contact
 
-Interested in collaborating or have an idea? Let’s talk!  
-Open an issue on any of my repos or message me on GitHub.
+Interested in collaborating or have an idea? Let’s talk!
+
+<div align="center">
+  <a href="mailto:santiago45879@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/santiago-carmona-pineda-11a63b2aa/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+<br>
